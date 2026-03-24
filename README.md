@@ -1,6 +1,6 @@
 # hotel-pos-Billing
 Streamlit-based Hotel/Restaurant POS Billing system with Admin menu management (image upload), sales analytics dashboard, and PDF invoice generation using SQLite.
-
+Live demo : https://hotel-pos-billing-rayccba33pkhqyphssvvea.streamlit.app/
 # Hotel POS + Analytics (Streamlit)
 
 A Hotel/Restaurant POS billing system built using **Streamlit + SQLite**.
